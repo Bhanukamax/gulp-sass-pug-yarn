@@ -4,6 +4,6 @@
 ## How to use
 - clone this repo in to your desired location
 - cd in to the repo folder
-- make sure you have npm and gulp-cli installed
-- run npm install
+- make sure you have yarn and gulp-cli installed
+- run yarn install
 - run gulp
