@@ -21,7 +21,7 @@ gulp.task('pug', function(){
 		pretty: true
 	
 	}))
-	.pipe(gulp.dest('./'));
+	.pipe(gulp.dest('./views'));
 
 });
 gulp.task('default', function(){
